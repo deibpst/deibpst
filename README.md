@@ -53,10 +53,12 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/4DiFwww6548AAAAi/kitty.gif"  />
+<img src="https://raw.githubusercontent.com/deibfps/deibfps/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/deibfps/deibfps/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="400" src="https://media.tenor.com/4DiFwww6548AAAAi/kitty.gif"  />
+</div>
 
 ###
