@@ -1,12 +1,22 @@
-<h2 align="left">Hi 👋! My name is David (Deib)</h2>
+<h1 align="left">Hi 👋! My name is David (Deib)</h1>
 
 ###
 
-<h4 align="left">I'm a third semester IT Student at BUAP (Meritorious Autonomous University of Puebla) therefore I'm from Mexico 🇲🇽.  Love videogames and an audiophile myself 🎧.</h4>
+<h2 align="left">About me</h2>
 
 ###
 
-<br clear="both">
+<h4 align="left">I'm a third semester IT Student at BUAP (Meritorious Autonomous University of Puebla) therefore I'm from Mexico 🇲🇽. Love videogames and I LOVE music🎧.</h4>
+
+###
+
+<p align="left">{ } Creating bugs since August 2023.<br>📚 I'm currently learning C++, HTML, CSS, Python and JavaScript.<br>🎯 Goals: Become a really good developer.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -22,36 +32,31 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">My social media</h2>
+
+###
 
 <div align="left">
-  <a href="https://www.youtube.com/@deibpst" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/deibpst/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-ponce-santos-320152327/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@deibpst" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://discordapp.com/users/473363362831532043" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="145" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN253MDgxMjlobzY1dnZnd2psdDl4c2dweDR5dWlodWM0YmRna3g5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6C4y1oxC6182MsyjvK/giphy.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/4DiFwww6548AAAAi/kitty.gif"  />
 
 ###
 
 <img src="https://raw.githubusercontent.com/deibfps/deibfps/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/deib">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deib&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
