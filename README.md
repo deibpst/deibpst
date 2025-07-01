@@ -1,8 +1,9 @@
+<!-- Imagen azul comentada -->
+<!--
 <div align="center">
   <img height="150" src="https://static.myfigurecollection.net/upload/pictures/2024/03/25/3945250.gif"  />
 </div>
-
-###
+-->
 
 <br clear="both">
 
@@ -73,5 +74,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-###
