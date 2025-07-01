@@ -4,16 +4,27 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/davidponcesantos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/david-ponce-santos-320152327/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@deibpst" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/deib.pst/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+</div>
+
+###
 
 <h1 align="center">Hi👋! My name is David</h1>
 
@@ -31,7 +42,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -60,9 +73,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/deibfps/deibfps/output/snake.svg" alt="Snake animation" />
 
 ###
