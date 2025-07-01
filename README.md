@@ -1,23 +1,22 @@
-<!-- Imagen azul comentada -->
-<!--
+entre las fotos de linkedin youtube e instagram hay una figura de color azul como la puedo quitar
 <div align="center">
   <img height="150" src="https://static.myfigurecollection.net/upload/pictures/2024/03/25/3945250.gif"  />
 </div>
--->
+
+###
 
 <br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/david-ponce-santos-320152327/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="35" alt="linkedin logo" />
-</a>
-<a href="https://www.youtube.com/@deibpst" target="_blank">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" alt="youtube logo" />
-</a>
-<a href="https://www.instagram.com/deib.pst/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="35" alt="instagram logo" />
-</a>
-
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  />
+  </a>
+  <a href="https://www.youtube.com/@deibpst" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  />
+  </a>
+  <a href="https://www.instagram.com/deib.pst/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  />
+  </a>
 </div>
 
 ###
@@ -75,3 +74,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
+
+###
