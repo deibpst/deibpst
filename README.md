@@ -60,6 +60,10 @@
 
 ###
 
+<h3 align="left">🎧 My recently played songs:</h3>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/deivekps">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=deivekps&count=5&unique=false" alt="Spotify recently played"  />
