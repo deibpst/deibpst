@@ -11,7 +11,7 @@ Currently learning and building with:
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-121722?logo=React&logoColor=61DAFB&style=for-the-badge)
+![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <img src="https://i.namu.wiki/i/iCO_ZCSt3i6d_Pyoe5j20gsE8hy0iBSsUBIQ87nsmqYK5Q5EE1Zk_RHoJZ5YSSzn9NJ-dgXkR5b6Av0HOauvzg.webp" width="120">
