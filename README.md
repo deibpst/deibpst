@@ -2,7 +2,7 @@
 
 <h1>
   Hi, I'm David 👋
-  <img src="src/cat.gif" width="80" align="right" style="vertical-align: middle;">
+  <img src="src/cat.gif" width="80" align="right" style="position: relative; top: 6px;">
 </h1>
 
 ### 6th Semester CS Student
