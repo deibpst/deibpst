@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>
-  Hi, I'm David 👋
-  <img src="src/cat.gif" width="80" align="right" style="position: relative; top: 6px;">
+  Hi, I'm David
+  <img src="src/cat.gif" width="80" style="vertical-align: middle;">
 </h1>
 
 ### 6th Semester CS Student
