@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm David 👋<img src="src/cat.gif" width="80" align="right">
+<h1>
+  Hi, I'm David 👋
+  <img src="src/cat.gif" width="80" style="vertical-align: middle;">
+</h1>
 
 ### 6th Semester CS Student
 ### I am in love with music, e-sports (tacfps), and weight lifting.
