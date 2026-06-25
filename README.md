@@ -6,7 +6,7 @@
 </h1>
 
 ### 6th Semester CS Student
-### I am in love with music, e-sports (tacfps), and weight lifting.
+### I love music, e-sports (tacfps), and weight lifting.
 
 [![Let's Connect](https://img.shields.io/badge/Let's%20Connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/davidpos/)
 
